@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Burj Khalifa",
+    "height": "100"
+  },
+  {
+    "name": "Shanghai Tower",
+    "height": "200"
+  },
+  {
+    "name": "Abraj Al-Bait Clock Tower",
+    "height": "300"
+  },
+  {
+    "name": "Ping An Finance Centre",
+    "height": "400"
+  },
+  {
+    "name": "Lotte World Tower",
+    "height": "500"
+  },
+  { "name": "BRK Tower", "height": "600" },
+  { "name": "Kavery Tower", "height": "900" }
+]
